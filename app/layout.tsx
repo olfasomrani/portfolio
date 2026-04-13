@@ -21,7 +21,7 @@ const jetbrains = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Votre Nom — Ingénieure Full-Stack",
+  title: "Somrani Olfa — Ingénieure Full-Stack",
   description: "Portfolio d'un ingénieure informatique Full-Stack basé en Tunisie.",
 };
 
