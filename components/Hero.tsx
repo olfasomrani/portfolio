@@ -32,7 +32,7 @@ export default function Hero() {
             className="font-syne text-xl md:text-2xl text-[#9ca3af] tracking-tight mb-5 animate-fadeInUp"
             style={{ animationDelay: "0.3s" }}
           >
-            Ingénieur{" "}
+            Ingénieure{" "}
             <strong className="text-gold font-bold">Full-Stack</strong>
             <br />& Formatrice ( pack office / web)
           </p>
