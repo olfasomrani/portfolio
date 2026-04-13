@@ -21,8 +21,8 @@ const jetbrains = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Votre Nom — Ingénieur Full-Stack",
-  description: "Portfolio d'un ingénieur informatique Full-Stack basé en Tunisie.",
+  title: "Votre Nom — Ingénieure Full-Stack",
+  description: "Portfolio d'un ingénieure informatique Full-Stack basé en Tunisie.",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
